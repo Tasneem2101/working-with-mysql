@@ -1,0 +1,10 @@
+USE cars;
+INSERT INTO cars(price, mileage, engType, year, model) VALUES("3300", "350", "Diesel","1995","Discovery");
+INSERT INTO cars(price, mileage, engType, year, model) VALUES("3500", "200", "Petrol","2000","Freelander");
+INSERT INTO cars(price, mileage, engType, year, model) VALUES("3550", "250", "Diesel","2001","Discovery");
+INSERT INTO cars(price, mileage, engType, year, model) VALUES("3700", "124", "Petrol","2005","Freelander");
+INSERT INTO cars(price, mileage, engType, year, model) VALUES("3900", "290", "Diesel","2003","Range Rover");
+INSERT INTO cars(price, mileage, engType, year, model) VALUES("6600", "298", "Diesel","1997","Discovery");
+INSERT INTO cars(price, mileage, engType, year, model) VALUES("7000", "124", "Petrol","1995","Freelander");
+INSERT INTO cars(price, mileage, engType, year, model) VALUES("9800", "364", "Diesel","2009","Freelander");
+INSERT INTO cars(price, mileage, engType, year, model) VALUES("11000", "304", "Diesel","2000","Range Rover Sport");
